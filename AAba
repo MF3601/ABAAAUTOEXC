@@ -1,0 +1,5 @@
+_G.Key = "ABAFREEKEY!"
+_G.Toggle = true 
+_G.Message = "Gtg"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/ABA1V1FARM"))()
